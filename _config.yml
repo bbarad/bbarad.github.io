@@ -1,0 +1,10 @@
+name: "BenjaminBarad.com"
+description: "The Personal Homepage for Benjamin Barad"
+
+url: "http://benjamin.barad.com"
+
+paginate: 5
+paginate_path: "blog/page:num"
+
+permalink: pretty
+highlighter: pygments
