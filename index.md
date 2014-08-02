@@ -4,7 +4,7 @@ layout: default
 group: home
 ---
 
-<h1>Benjamin Barad <small> Graduate Student </small></h1>
+<h1 class="text-center">Benjamin Barad <small> Graduate Student </small></h1>
 
 Since 2013, I have been a graduate student studying Biophysics with James Fraser 
 at UCSF. I am investigating methods for structural modelling and validation as 
