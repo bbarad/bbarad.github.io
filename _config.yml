@@ -8,3 +8,6 @@ paginate_path: "blog/page:num"
 
 permalink: pretty
 highlighter: pygments
+markdown: kramdown
+kramdown: 
+  parse_block_html: true
