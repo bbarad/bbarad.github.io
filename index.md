@@ -4,18 +4,7 @@ layout: default
 group: home
 ---
 
-<h1 class="text-center">Benjamin Barad <small> Graduate Student </small></h1>
-
-<div class="row">
-  	<div class="medium-5 columns">
-  		<div><ul><li> menu items will go here</li></ul></div>
-  	</div>
-  	<div class="medium-7 columns">
-  		<img src="static/img/Giving_microed_talk.jpg" 
-  		alt = "I find electron diffraction interesting!" />
-  	</div>
-</div>
-
+<h1>Benjamin Barad <small> Graduate Student </small></h1>
 
 Since 2013, I have been a graduate student studying Biophysics with James Fraser 
 at UCSF. I am investigating methods for structural modelling and validation as 
