@@ -4,7 +4,7 @@ layout: default
 group: home
 ---
 
-<h1 class="text-center">Benjamin Barad <small> Graduate Student </small></h1>
+<h1 class="text-center">Benjamin Barad <br><small> Graduate Student </small></h1>
 
 
 <p class="lead text-justify">
