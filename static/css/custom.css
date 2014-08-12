@@ -2,19 +2,3 @@ body {
   padding-top: 60px;
   padding-bottom: 40px;
 }
-
-footer {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 0px;
-  background-color: #efefef;
-  text-align: center;
-}
-
-footer .navbar-nav {
-	display: inline-block;
-	float: none;
-	text-align: center;
-}
