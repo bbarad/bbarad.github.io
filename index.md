@@ -4,9 +4,9 @@ layout: default
 group: home
 ---
 
-<h1 class="text-center">Benjamin Barad <br><small> Graduate Student </small></h1>
-
 <img src="/static/img/Giving_microed_talk.jpg" class="img-responsive center-block" alt="Giving a talk about recent developments in electron crystallography, February 2014"/>
+
+<h1 class="text-center">Benjamin Barad <br><small> Graduate Student </small></h1>
 
 <p class="lead text-justify">
 I am a graduate student pursuing a PhD in [Biophysics at UCSF](http://biophysics.ucsf.edu). 
