@@ -39,7 +39,7 @@ body {
 .list-inline {
     position: relative;
     padding-top: 15px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     line-height: 20px;
     text-align: center;
 }
