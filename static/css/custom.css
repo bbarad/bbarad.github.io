@@ -7,8 +7,8 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
-  padding-top: 60px;
-  padding-bottom:40px;
+/*  padding-top: 60px;
+  padding-bottom:40px;*/
 }
 .footer {
   position: absolute;
@@ -16,7 +16,32 @@ body {
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 60px;
-  background-color: #f5f5f5;
+  background-color: #222;
+  border-color: #080808;
+  color: #777;
+}
+
+.footer .btn-link {
+  color: #777;
+}
+.footer .btn-link:hover,
+.footer .btn-link:focus {
+  color: #fff;
+}
+.footer-inverse > a {
+  color: #777;
+}
+.footer-inverse > a:hover,
+.footer-inverse > a:focus {
+  color: #fff;
+}
+
+.list-inline {
+    position: relative;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    line-height: 20px;
+    text-align: center;
 }
 
 
