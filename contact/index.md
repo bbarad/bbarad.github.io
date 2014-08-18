@@ -4,7 +4,7 @@ layout: default
 group: contact
 ---
 
-<h1 class="text-center"> Contact me! </h1>
+<h1 class="page-header text-center"> Contact me! </h1>
 
 The easiest way to get in touch with me is by [email](mailto:benjamin.barad+website@gmail.com). Short of that, you can drop me a google hangout at the same address or call me at [310.594.7634](tel:+13105947634). Fair warning: I don't answer my phone often. 
 
