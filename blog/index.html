@@ -4,7 +4,7 @@ layout: default
 group: blog
 ---
 
-<h1 class="page-header text-center"> Ideas and Stories <br><small>In Blog Format</small> </h1>
+<div class="page-header"><h1 class="text-center"> Ideas and Stories <br><small>In Blog Format</small> </h1></div>
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
