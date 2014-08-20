@@ -1,5 +1,5 @@
 ---
-Title: Making Websites
+title: Making Websites
 layout: post
 group: blog
 ---
