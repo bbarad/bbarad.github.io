@@ -5,7 +5,9 @@ group: blog
 updated: 2015-08-25 12:00:00
 ---
 
-**Update**: I just finished the website for the [Frost Lab at UCSF](http://frostlab.org) and I am really happy with it. It uses a very similar structure under the hood to the [Fraser Lab](http://fraserlab.com), but thanks to a new [css framework](http://materializecss.com), it has a distinctive look while maintaining a lot of the simple visual styles that I prefer. 
+**Update**: 
+
+I just finished the website for the [Frost Lab at UCSF](http://frostlab.org) and I am really happy with it. It uses a very similar structure under the hood to the [Fraser Lab](http://fraserlab.com), but thanks to a new [css framework](http://materializecss.com), it has a distinctive look while maintaining a lot of the simple visual styles that I prefer. 
 
 I've also gotten to see a few other people make personal or lab websites using github pages based on the templates I've generated: check out [Neville Bethel's homepage](http://nevillebethel.com) and [Eli Zunder's lab page](http://zunderlab.github.io). If you want to try your hand, I'd recommend forking my code on github for [this page](https://github.com/bbarad/bbarad.github.io) or the [Fraser Lab](https://github.com/fraser-lab/fraser-lab.github.io).
 

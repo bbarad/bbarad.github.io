@@ -1,7 +1,11 @@
 {% include header.html %}
 
 <h1 class="text-center"> {{page.title}}</h1>
-<p class="text-center"> {{page.date | date_to_long_string}} </p>
+{% if page.updated %}
+  <p class="text-center"> {{page.date | date_to_long_string}} - Last Updated {{page.updated | date_to_long_string}} </p>
+{% else %}
+  <p class="text-center"> {{page.date | date_to_long_string}} </p>
+{% endif %}
 
 {{content}}
 {% include disqus.html %}
