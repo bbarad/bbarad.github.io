@@ -9,7 +9,11 @@ group: blog
 {% for post in paginator.posts %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p class="author">
-    <span class="date"><em>{{ post.date | date_to_long_string }}</em></span>
+    {% if post.updated %}
+      <span class="date"><em>{{ post.date | date_to_long_string }} - Last Updated {{ post.updated | date_to_long_string }}</em></span>
+    {% else %}
+      <span class="date"><em>{{ post.date | date_to_long_string }}</em></span>
+    {% endif %}
   </p>
   <div class="content">
     {{ post.content | split:'<!--break-->' | first }}

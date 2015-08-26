@@ -2,13 +2,20 @@
 title: Making Websites
 layout: post
 group: blog
+updated: 2015-08-25 12:00:00
 ---
+
+**Update**: I just finished the website for the [Frost Lab at UCSF](http://frostlab.org) and I am really happy with it. It uses a very similar structure under the hood to the [Fraser Lab](http://fraserlab.com), but thanks to a new [css framework](http://materializecss.com), it has a distinctive look while maintaining a lot of the simple visual styles that I prefer. 
+
+I've also gotten to see a few other people make personal or lab websites using github pages based on the templates I've generated: check out [Neville Bethel's homepage](http://nevillebethel.com) and [Eli Zunder's lab page](http://zunderlab.github.io). If you want to try your hand, I'd recommend forking my code on github for [this page](https://github.com/bbarad/bbarad.github.io) or the [Fraser Lab](https://github.com/fraser-lab/fraser-lab.github.io).
+
+**Original Piece**:
 
 In the past few months, I have gone from having no experience whatsoever making websites to having made 2 static sites and a small in-progress webapp (which I hope to share soon!). It has been a tremendous learning experience for me, but something that I found difficult starting out was just figuring out what technologies to build from.
 
-I have only been programming for about 18 months, and in that time I have primarily gained experience working in Python. I have very little knowledge of web technology beyond the basics that I have cleaned from googling and reading through tutorials and online documentations. Because of this, all of the success I have found in websites so far has been from starting with a very well-developed frameworks and tinkering from there. Given that I am only interested in web development as a means of making the work I am doing more available, I think that I probably will not progress past this point, and honestly I am happy enough with the results that I have seen that I don't think that is a bad thing. I thought I would share my experiences with some of the tools that I have used both for building the static sites as well as the webapp that might be of interest to others in my position.
-
 <!--break-->
+
+I have only been programming for about 18 months, and in that time I have primarily gained experience working in Python. I have very little knowledge of web technology beyond the basics that I have cleaned from googling and reading through tutorials and online documentations. Because of this, all of the success I have found in websites so far has been from starting with a very well-developed frameworks and tinkering from there. Given that I am only interested in web development as a means of making the work I am doing more available, I think that I probably will not progress past this point, and honestly I am happy enough with the results that I have seen that I don't think that is a bad thing. I thought I would share my experiences with some of the tools that I have used both for building the static sites as well as the webapp that might be of interest to others in my position.
 
 ## The Static Sites
 
