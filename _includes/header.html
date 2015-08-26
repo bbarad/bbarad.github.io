@@ -48,9 +48,7 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="/">Home</a></li>
-            <li><a href="/blog">Blog</a></li>
-            <li><a href="/contact">Contact</a></li>
+            {% for link in site.data.navlinks %} <li><a href="{{link.url}}">{{link.name}}</a></li>{% endfor %}
           </ul>
         </div><!--/.nav-collapse -->
       </div><!--/.container-fluid -->

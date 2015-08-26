@@ -1,7 +1,7 @@
 name: "Benjamin Barad"
 description: "The Personal Homepage for Benjamin Barad"
 
-url: "http://benjamin.barad.com"
+url: "http://benjaminbarad.com"
 
 paginate: 5
 paginate_path: "blog/page:num"

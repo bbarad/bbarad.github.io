@@ -1,0 +1,30 @@
+- citation: '**Barad BA**, Echols N, Wang RYR, Cheng Y, DiMaio F, Adams PD, **Fraser JS**. EMRinger: Side-chain-directed model and map validation for 3D Electron Cryomicroscopy. *Nature Methods*. 2015.'
+  date: 201503
+  image: '/static/img/pub/bab_1_2015.jpg'
+  pmid: 26280328
+  biorxiv: 014738
+  pmcid: In process
+  pdf: '/static/pdf/barad_2015.pdf'
+  pdbs:
+    - 3J9I
+    - 3J9J
+  links:
+    - name: Paper Submission Celebration Photo
+      url: 'https://twitter.com/fraser_lab/status/562799246689460224'
+    - name: EMRinger Code on Github
+      url: 'https://github.com/fraser-lab/EMRinger'
+    - name: Blog Post about EMRinger
+      url: '/2015/02/17/EMRinger/'
+
+- citation: '**Mavor D**, Barlow KA, Thompson S, **Barad BA**, Bonny AR, Cario CL, Gaskins G, Liu Z, Deming L, Axen SD, Caceres E, Chen W, Cuesta A, Gate R, Green EM, Hulce KR, Ji W, Kenner LR, Mensa B, Morinishi LS, Moss SM, Mravic M, Muir RK, Niekamp S, Nnadi CI, Palovcak E, **Poss EM**, Ross TD, Salcedo E, See S, Subramaniam M, Wong AW, Li J, Thorn KS, Conchúir SÓ, Roscoe BP, Chow ED, DeRisi JL, Kortemme T, Bolon DN, **Fraser JS**. Determination of Ubiquitin Fitness Landscapes Under Different Chemical Stresses in a Classroom Setting. *Submitted - Preprint available on BioRxiv*. 2015.'
+  date: 201508
+  image: '/static/img/pub/pubs_2015.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: "025452"
+  pdf: 'http://biorxiv.org/content/biorxiv/early/2015/08/25/025452.full.pdf'
+  links:
+    - name: 'Paper Submission Celebration Photo'
+      url: 'https://twitter.com/fraser_lab/status/635972900013498368'
+    - name: 'Course Syllabus'
+      url: 'http://fraserlab.com/pubs_2014/'

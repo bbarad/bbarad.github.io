@@ -9,7 +9,7 @@ group: home
 <h1 class="text-center">Benjamin Barad <br><small> Graduate Student </small></h1>
 
 <p class="lead text-justify">
-I am a graduate student pursuing a PhD in [Biophysics at UCSF](http://biophysics.ucsf.edu). 
+I am a PhD candidate in [Biophysics at UCSF](http://biophysics.ucsf.edu). 
 Since 2014, I have been working with [James Fraser](http://fraserlab.com), investigating methods for structural modelling and validation as well as the structural links between mutation and disease. 
 Before that, I was an undergraduate at Stanford University studying Biological Chemistry, where I worked with [Elizabeth Sattely](http://www.stanford.edu/group/sattelygroup/cgi-bin/wordpress/) investigating bacterial degradation of the plant polymer lignin. 
 </p>
