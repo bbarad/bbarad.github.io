@@ -10,6 +10,6 @@ group: home
 
 <p class="lead text-justify">
 I am a PhD candidate in [Biophysics at UCSF](http://biophysics.ucsf.edu). 
-Since 2014, I have been working with [James Fraser](http://fraserlab.com), investigating methods for structural modelling and validation as well as the structural links between mutation and disease. 
+Since 2014, I have been working with [James Fraser](http://fraserlab.com), developing methods for the building and validating atomic models generated from single particle electron microscopy, as well as investing the structural links between protein mutation and disease in chitin metabolism. 
 Before that, I was an undergraduate at Stanford University studying Biological Chemistry, where I worked with [Elizabeth Sattely](http://www.stanford.edu/group/sattelygroup/cgi-bin/wordpress/) investigating bacterial degradation of the plant polymer lignin. 
 </p>
