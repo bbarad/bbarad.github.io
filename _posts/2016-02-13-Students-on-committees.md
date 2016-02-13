@@ -20,13 +20,14 @@ No matter what faculty say about their search process, ultimately the hiring pro
 Mike Eisen recently proposed in his ["Mission Bay Manifesto"](http://www.michaeleisen.org/blog/?p=1760) that scientists commit to not using journal titles in evaluation as a way of avoiding this kind of game, but it is hard to not feel like these factors remain important without knowing what is actually held as important behind the closed doors of the search committee.
 If the established scientists pushing for these changes to improve transparency in scientific publishing want to get trainees fully onboard, there needs to be a concerted effort to improve the transparency of the hiring side of the academic community.
 
-To this end, I think the easiest and most straightforward solution is to begin institutionally including trainees on search committees. I would propose starting by putting one student and one postdoc on each search committee. 
+To this end, I think the easiest and most straightforward solution is to begin institutionally including trainees on search committees. 
+I would propose starting by putting one student and one postdoc on each search committee. 
 This will benefit the search process by providing a perspective which is usually not taken into consideration during faculty search (but one that I would contend is very important - the prospective employees of a faculty candidate!), and it would also provide trainees with the opportunity to see what a successful application looks like.
 The educational benefit seems clear to me: with the opportunity to see hundreds of applications ranging in quality, anyone interested in pursuing academic faculty positions can get a better idea of what is expected of them.
 I think just as important is the cultural impact of this change.
 The ability of trainees to participate in searches will eliminate some of the superstitions that arise and help foster a better sense of ownership for trainees at an institution.
 
-This is not unheard of - I know that my advisor, James Fraser, participated in multiple faculty searches as a graduate student. 
+This is not unheard of - I know that my advisor, James Fraser, participated in a faculty search as a graduate student. 
 However, UCSF across the board does not include students or postdocs in committees, and I understand that this is very common. 
 The result of this is that postdocs may apply for faculty jobs never having seen a good application or any faculty chalk talk. 
 This is such a clear failure of the training model; how can a trainee be expected to give their best applications and talks without any prior knowledge of what has previously been successful. 
