@@ -33,7 +33,7 @@ The result of this is that postdocs may apply for faculty jobs never having seen
 This is such a clear failure of the training model; how can a trainee be expected to give their best applications and talks without any prior knowledge of what has previously been successful. 
 Including trainees on committees is a simple solution, but it is incomplete, as there are so few searches that not every postdoc and graduate student would get a chance to serve on a committee. 
 Nonetheless, it is a step in the right direction, in the spirit of evolutionary changes moving towards the system we want to have.
-More than that, it is an obvious option and I have yet to see a convincing reason not to do it - though if you have one, I'd love to discuss it in the comments (or on [twitter](twitter.com/benjaminbarad)!)
+More than that, it is an obvious option and I have yet to see a convincing reason not to do it - though if you have one, I'd love to discuss it in the comments (or on [twitter](https://twitter.com/benjaminbarad)!)
 
 I want to close with a few more radical ideas for making the hiring process more transparent, and improving the educational model at the same time. 
 
