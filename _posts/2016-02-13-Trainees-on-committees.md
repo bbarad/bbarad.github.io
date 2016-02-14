@@ -27,6 +27,8 @@ The educational benefit seems clear to me: with the opportunity to see hundreds 
 I think just as important is the cultural impact of this change.
 The ability of trainees to participate in searches will eliminate some of the superstitions that arise and help foster a better sense of ownership for trainees at an institution.
 
+<!--break-->
+
 This is not unheard of - I know that my advisor, James Fraser, participated in a faculty search as a graduate student. 
 However, UCSF across the board does not include students or postdocs in committees, and I understand that this is very common. 
 The result of this is that postdocs may apply for faculty jobs never having seen a good application or any faculty chalk talk. 
