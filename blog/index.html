@@ -7,6 +7,8 @@ group: blog
 <div class="page-header"><h1 class="text-center"> Ideas and Stories <br><small>In Blog Format</small> </h1></div>
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
+<div class="row">
+<div class="col-sm-8 lead">
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p class="author">
     {% if post.updated %}
@@ -16,12 +18,18 @@ group: blog
     {% endif %}
   </p>
   <div class="content">
+    
     {{ post.content | split:'<!--break-->' | first }}
+    
     {% if post.content contains '<!--break-->' %}
       <a href="{{ post.url }}">read more</a>
     {% endif %}
   </div>
   <hr>
+</div>
+</div>
+ <div class="clearfix visible-xs-block"></div>
+
 {% endfor %}
 
 <!-- This makes links to other paginator pages -->
