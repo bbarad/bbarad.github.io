@@ -16,6 +16,20 @@ Schwarz DMC, Anfinrud P, Fraser JS. Temperature-Jump Solution X-ray Scattering R
     - name: 'Paper Submission Celebration Tweetstorm'
       url: 'https://twitter.com/fraser_lab/status/1067213167367905280'
 
+- citation: 'Chatterjee N, Pazarentzos E, Hrustanovic G, Lin L, Verschueren E, Johnson JR, Hofree M, Yan JJ, Olivas V, Newton BW, 
+Dollen JV, Earnshaw CH, Flanagan J, Chan E, Asthana S, Ideker T, Wu W, Mayekar MK, Suzuki J, **Barad B**, Kirichok Y, 
+Fraser J, Weiss WA, Krogan NJ, Tulpule A, Sabnis AJ, Bivona TG. Synthetic essentiality of metabolic regulator PDHK1 in PTEN-deficient cells
+and cancers. *Submitted - Preprint on Biorxiv.* 2018.'
+  date: 201810
+  image: '/static/img/pub/chatterjee_2018.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: "441295"
+  pdf: 'https://www.biorxiv.org/content/early/2018/10/11/441295.full.pdf'
+  links:
+    - name: Bivona Lab
+      url: https://www.bivonalab.net/
+
 - citation: 'Thomaston JL, Woldeyes RA, Nakane T, Yamashita A, Tanaka T, Koiwai K, Brewster AS, **Barad BA**, Chen Y, Lemmin T, Uervirojnangkoorn M, Arima T, Kobayashi J, Masuda T, Suzuki M, Sugahara M, Sauter NK, Tanaka R, Nureki O, Tono K, Joti Y, Nango E, Iwata S, Yumoto F, Fraser JS, DeGrado WF. XFEL structures of the influenza M2 proton channel: Room temperature water networks and insights
 into proton conduction. *Proceedings of the National Academy of Sciences*. 2017.'
   date: 201707
