@@ -45,13 +45,13 @@ into proton conduction. *Proceedings of the National Academy of Sciences*. 2017.
     - name: 'DiMaio Lab'
       url: 'https://faculty.washington.edu/dimaio/wordpress/'
 
-- citation: 'Mavor D, Barlow KA, Thompson S, **Barad BA**, Bonny AR, Cario CL, Gaskins G, Liu Z, Deming L, Axen SD, Caceres E, Chen W, Cuesta A, Gate R, Green EM, Hulce KR, Ji W, Kenner LR, Mensa B, Morinishi LS, Moss SM, Mravic M, Muir RK, Niekamp S, Nnadi CI, Palovcak E, Poss EM, Ross TD, Salcedo E, See S, Subramaniam M, Wong AW, Li J, Thorn KS, Conchúir SÓ, Roscoe BP, Chow ED, DeRisi JL, Kortemme T, Bolon DN, Fraser JS. Determination of Ubiquitin Fitness Landscapes Under Different Chemical Stresses in a Classroom Setting. *eLife*. 2016.'
+- citation: '**Mavor D**, Barlow KA, Thompson S, **Barad BA**, Bonny AR, Cario CL, Gaskins G, Liu Z, Deming L, Axen SD, Caceres E, Chen W, Cuesta A, Gate R, Green EM, Hulce KR, Ji W, Kenner LR, Mensa B, Morinishi LS, Moss SM, Mravic M, Muir RK, Niekamp S, Nnadi CI, Palovcak E, **Poss EM**, Ross TD, Salcedo E, See S, Subramaniam M, Wong AW, Li J, Thorn KS, Conchúir SÓ, Roscoe BP, Chow ED, DeRisi JL, Kortemme T, Bolon DN, **Fraser JS**. Determination of Ubiquitin Fitness Landscapes Under Different Chemical Stresses in a Classroom Setting. *eLife*. 2016.'
   date: 201605
   image: '/static/img/pub/pubs_2015.jpg'
   pmid: 27111525
-  pmcid: In Process
+  pmcid: PMC4862753
   biorxiv: "025452"
-  pdf: 'http://biorxiv.org/content/biorxiv/early/2015/08/25/025452.full.pdf'
+  pdf: '/static/pdf/mavor_elife_2016.pdf'
   links:
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/635972900013498368'
@@ -59,6 +59,8 @@ into proton conduction. *Proceedings of the National Academy of Sciences*. 2017.
       url: 'https://github.com/fraser-lab/PUBS2014'
     - name: 'Course Syllabus'
       url: 'http://fraserlab.com/pubs_2014/'
+    - name: 'eLIFEdigest: Yeast in a class of their own'
+      url: 'https://medium.com/lifes-building-blocks/yeast-in-a-class-of-their-own-4dabb27653eb#.tcf71ly8z'
 
 - citation: '**Barad BA**, Echols N, Wang RYR, Cheng Y, DiMaio F, Adams PD, Fraser JS. EMRinger: Side-chain-directed model and map validation for 3D Electron Cryomicroscopy. *Nature Methods*. 2015.'
   date: 201503
