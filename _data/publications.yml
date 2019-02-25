@@ -1,10 +1,46 @@
-- citation: 'Wang RYR, Song Y, **Barad BA**, Cheng Y, Fraser JS, DiMaio F. Automated structure refinement of macromolecular assemblies from cryo-EM maps using Rosetta. *Submitted - Preprint on BioRxiv*. 2016.'
-  date: 201606
-  image: '/static/img/pub/wang_2016.jpg'
+- citation: 'Thompson MC, **Barad BA**, Wolff AM, Cho HS, Schotte F,
+**Schwarz DMC**, Anfinrud P, **Fraser JS**. Temperature-Jump Solution X-ray Scattering Reveals Distinct Motions in a Dynamic Enzyme. *Submitted - Preprint on BioRxiv*. 2018.'
+  date: 201810
+  image: '/static/img/pub/thompson_2018.jpg'
   pmid: Submitted
   pmcid: Submitted
+  biorxiv: "476432"
+  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2018/11/21/476432.full.pdf'
+  links:
+    - name: Solution Scattering Code on Github
+      url: https://github.com/fraser-lab/solution_scattering
+    - name: BioCARS
+      url: 'https://biocars.uchicago.edu/'
+    - name: Phil Anfinrud
+      url: 'https://irp.nih.gov/pi/philip-anfinrud'
+    - name: 'Paper Submission Celebration Tweetstorm'
+      url: 'https://twitter.com/fraser_lab/status/1067213167367905280'
+
+- citation: 'Thomaston JL, Woldeyes RA, Nakane T, Yamashita A, Tanaka T, Koiwai K, Brewster AS, **Barad BA**, Chen Y, Lemmin T, Uervirojnangkoorn M, Arima T, Kobayashi J, Masuda T, Suzuki M, Sugahara M, Sauter NK, Tanaka R, Nureki O, Tono K, Joti Y, Nango E, Iwata S, Yumoto F, **Fraser JS**, DeGrado WF. XFEL structures of the influenza M2 proton channel: Room temperature water networks and insights
+into proton conduction. *Proceedings of the National Academy of Sciences*. 2017.'
+  date: 201707
+  image: '/static/img/pub/thomaston_2017.jpg'
+  pmid: 28835537
+  pmcid: PMC5754760
+  pdf: '/static/pdf/thomaston_2017.pdf'
+  pdbs:
+    - 5JOO
+    - 5UM1
+    - 5TTC
+  links:
+    - name: 'DeGrado Lab'
+      url: 'https://pharm.ucsf.edu/degrado'
+    - name: 'SACLA XFEL'
+      url: 'http://xfel.riken.jp/eng/'
+
+
+- citation: 'Wang RYR, Song Y, **Barad BA**, Cheng Y, **Fraser JS**, DiMaio F. Automated structure refinement of macromolecular assemblies from cryo-EM maps using Rosetta. *eLife*. 2016.'
+  date: 201606
+  image: '/static/img/pub/wang_2016.jpg'
+  pmid: 27669148
+  pmcid: PMC5115868
   biorxiv: "050286"
-  pdf: 'http://biorxiv.org/content/early/2016/04/26/050286.full.pdf'
+  pdf: '/static/pdf/wang_2016.pdf'
   links:
     - name: 'DiMaio Lab'
       url: 'https://faculty.washington.edu/dimaio/wordpress/'
