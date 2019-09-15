@@ -1,3 +1,23 @@
+- citation: '**Barad BA**, Liu L, Diaz RE, Basillo R, Van Dyken SJ, Locksley RM, Fraser JS. Dissecting the chitinolytic activity of mammalian chitinases. *Submitted - Preprint on BioRxiv*. 2019.'
+  date: 201908
+  image: '/static/img/pub/chitin_2019.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: 762336
+  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2019/09/08/762336.full.pdf'
+  links:
+    - name: Chitin Analysis Scripts
+      url: https://github.com/fraser-lab/chitin_analysis
+    - name: Relax Scripts for calculating non-linear relaxation fits
+      url: https://github.com/fraser-lab/relax
+    - name: Locksley lab
+      url: https://locksleylab.ucsf.edu
+    - name: Van Dyken lab
+      url: https://sites.wustl.edu/vandykenlab/
+    - name: Celebratory Tweetstorm
+      url: https://twitter.com/benjaminbarad/status/1171091343789056000
+
+
 - citation: 'Thompson MC, **Barad BA**, Wolff AM, Cho HS, Schotte F,
 Schwarz DMC, Anfinrud P, Fraser JS. Temperature-Jump Solution X-ray Scattering Reveals Distinct Motions in a Dynamic Enzyme. *Submitted - Preprint on BioRxiv*. 2018.'
   date: 201810
@@ -9,6 +29,8 @@ Schwarz DMC, Anfinrud P, Fraser JS. Temperature-Jump Solution X-ray Scattering R
   links:
     - name: Solution Scattering Code on Github
       url: https://github.com/fraser-lab/solution_scattering
+    - name: Solution Scattering Data on NIH Figshare
+      url: https://doi.org/10.35092/yhjc.9177143
     - name: BioCARS
       url: 'https://biocars.uchicago.edu/'
     - name: Philip Anfinrud
@@ -16,16 +38,13 @@ Schwarz DMC, Anfinrud P, Fraser JS. Temperature-Jump Solution X-ray Scattering R
     - name: 'Paper Submission Celebration Tweetstorm'
       url: 'https://twitter.com/fraser_lab/status/1067213167367905280'
 
-- citation: 'Chatterjee N, Pazarentzos E, Hrustanovic G, Lin L, Verschueren E, Johnson JR, Hofree M, Yan JJ, Olivas V, Newton BW, 
-Dollen JV, Earnshaw CH, Flanagan J, Chan E, Asthana S, Ideker T, Wu W, Mayekar MK, Suzuki J, **Barad B**, Kirichok Y, 
-Fraser J, Weiss WA, Krogan NJ, Tulpule A, Sabnis AJ, Bivona TG. Synthetic essentiality of metabolic regulator PDHK1 in PTEN-deficient cells
-and cancers. *Submitted - Preprint on Biorxiv.* 2018.'
+- citation: 'Chatterjee N, Pazarentzos E, Mayekar MK, Gui P, Allegakoen DV, Hrustanovic G, Olivas V, Lin L, Verschueren E, Johnson JR, Hofree M, Yan JJ, Newton BW, Dollen JV, Earnshaw CH, Flanagan J, Chan E, Asthana S, Ideker T, Wu W, Suzuki J, **Barad BA**, Kirichok Y, Fraser JS, Weiss WA, Krogan NJ, Tulpule A, Sabnis AJ, Bivona TG. Synthetic essentiality of metabolic regulator PDHK1 in PTEN-deficient cells and cancers. *Cell Reports.* 2019.'
   date: 201810
   image: '/static/img/pub/chatterjee_2018.jpg'
-  pmid: Submitted
-  pmcid: Submitted
+  pmid: 31461649
+  pmcid: In Process
   biorxiv: "441295"
-  pdf: 'https://www.biorxiv.org/content/early/2018/10/11/441295.full.pdf'
+  pdf: '/static/pdf/chatterjee_2019.pdf'
   links:
     - name: Bivona Lab
       url: https://www.bivonalab.net/
