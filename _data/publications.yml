@@ -1,11 +1,43 @@
-- citation: 'Thompson MC, **Barad BA**, Wolff AM, Cho HS, Schotte F,
-Schwarz DMC, Anfinrud P, Fraser JS. Temperature-Jump Solution X-ray Scattering Reveals Distinct Motions in a Dynamic Enzyme. *Nature Chemistry*. 2019.'
+- title: "Outcomes of the 2019 EMDataResource model challenge: validation of cryo-EM models at near-atomic resolution"
+  citation: "Lawson CL, Kryshtafovych A, Adams PD, Afonine PV, Baker ML, **Barad BA**, Bond P, Burnley T, Cao R, Cheng J, Chojnowski G, Cowtan K, Dill KA, DiMaio F, Farrell DP, Fraser JS, Jr. MAH, Hoh SW, Hou J, Hung L, Igaev M, Joseph AP, Kihara D, Kumar D, Mittal S, Monastyrskyy B, Olek M, Palmer CM, Patwardhan A, Perez A, Pfab J, Pintilie GD, Richardson JS, Rosenthal PB, Sarkar D, Schäfer LU, Schmid MF, Schröder GF, Shekhar M, Si D, Singharoy A, Terashi G, Terwilliger TC, Vaiana A, Wang L, Wang Z, Wankowicz SA, Williams CJ, Winn M, Wu T, Yu X, Zhang K, Berman HM, Chiu W. *Nature*. 2020."
+  date: '2020-06-19'
+  image: '/static/img/pub/2020_lawson.jpg'
+  # pmid: ''
+  # pmcid: ''
+  biorxiv: '2020.06.12.147033'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2020.06.12.147033v1.full.pdf'
+  links:
+    - name: 2019 Model Metrics Challenge
+      url: https://challenges.emdataresource.org/?q=model-metrics-challenge-2019
+
+- title: "Differences in the chitinolytic activity of mammalian chitinases on soluble and insoluble substrates."
+  citation: "**Barad BA, Liu L, Diaz RE, Basillo R**, Van Dyken SJ, Locksley RM, **Fraser JS**.  *Protein Science*. 2020."
+  date: '2020-01-12'
+  image: '/static/img/pub/chitin_2019.jpg'
+  pmid: '31930591'
+  pmcid: 'PMC7096708'
+  biorxiv: '762336'
+  pdf: '/static/pdf/2020_barad.pdf'
+  links:
+    - name: Chitin Analysis Scripts on GitHub
+      url: https://github.com/fraser-lab/chitin_analysis
+    - name: Relax Scripts for calculating non-linear relaxation fits on GitHub
+      url: https://github.com/fraser-lab/relax
+    - name: Locksley lab @ UC San Francisco
+      url: https://locksleylab.ucsf.edu
+    - name: Van Dyken lab @ Washington University in St. Louis
+      url: https://sites.wustl.edu/vandykenlab/
+    - name: Celebratory Tweetstorm
+      url: https://twitter.com/benjaminbarad/status/1171091343789056000
+
+- title: "Temperature-Jump Solution X-ray Scattering Reveals Distinct Motions in a Dynamic Enzyme"
+  citation: 'Thompson MC, **Barad BA**, Wolff AM, Cho HS, Schotte F, Schwarz DMC, Anfinrud P, Fraser JS. *Nature Chemistry*. 2019.'
   date: 201810
   image: '/static/img/pub/thompson_2018.jpg'
   pmid: 31527847
   pmcid: In Process
   biorxiv: "476432"
-  pdf: '/static/pdf/thompson_nchem_2019.pdf'
+  pdf: '/static/pdf/2019_thompson.pdf'
   links:
     - name: Solution Scattering Code on Github
       url: https://github.com/fraser-lab/solution_scattering
@@ -18,23 +50,7 @@ Schwarz DMC, Anfinrud P, Fraser JS. Temperature-Jump Solution X-ray Scattering R
     - name: 'Paper Submission Celebration Tweetstorm'
       url: 'https://twitter.com/fraser_lab/status/1067213167367905280'
 
-- citation: '**Barad BA**, Liu L, Diaz RE, Basillo R, Van Dyken SJ, Locksley RM, Fraser JS. Dissecting the chitinolytic activity of mammalian chitinases. *Submitted - Preprint on BioRxiv*. 2019.'
-  date: 201908
-  image: '/static/img/pub/chitin_2019.jpg'
-  pmid: Submitted
-  pmcid: Submitted
-  biorxiv: 762336
-  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2019/09/08/762336.full.pdf'
-  links:
-    - name: Chitin Analysis Scripts
-      url: https://github.com/fraser-lab/chitin_analysis
-    - name: Relax Scripts for calculating non-linear relaxation fits
-      url: https://github.com/fraser-lab/relax
-    - name: Locksley lab
-      url: https://locksleylab.ucsf.edu
-    - name: Van Dyken lab
-      url: https://sites.wustl.edu/vandykenlab/
-    - name: Celebratory Tweetstorm
+
       url: https://twitter.com/benjaminbarad/status/1171091343789056000
 
 - citation: 'Chatterjee N, Pazarentzos E, Mayekar MK, Gui P, Allegakoen DV, Hrustanovic G, Olivas V, Lin L, Verschueren E, Johnson JR, Hofree M, Yan JJ, Newton BW, Dollen JV, Earnshaw CH, Flanagan J, Chan E, Asthana S, Ideker T, Wu W, Suzuki J, **Barad BA**, Kirichok Y, Fraser JS, Weiss WA, Krogan NJ, Tulpule A, Sabnis AJ, Bivona TG. Synthetic essentiality of metabolic regulator PDHK1 in PTEN-deficient cells and cancers. *Cell Reports.* 2019.'
@@ -43,7 +59,7 @@ Schwarz DMC, Anfinrud P, Fraser JS. Temperature-Jump Solution X-ray Scattering R
   pmid: 31461649
   pmcid: PMC6728083
   biorxiv: "441295"
-  pdf: '/static/pdf/chatterjee_2019.pdf'
+  pdf: '/static/pdf/2019_chatterjee_pazarentzos.pdf'
   links:
     - name: Bivona Lab
       url: https://www.bivonalab.net/
@@ -66,7 +82,8 @@ into proton conduction. *Proceedings of the National Academy of Sciences*. 2017.
       url: 'http://xfel.riken.jp/eng/'
 
 
-- citation: 'Wang RYR, Song Y, **Barad BA**, Cheng Y, Fraser JS, DiMaio F. Automated structure refinement of macromolecular assemblies from cryo-EM maps using Rosetta. *eLife*. 2016.'
+- title: "Automated structure refinement of macromolecular assemblies from cryo-EM maps using Rosetta"
+  citation: 'Wang RYR, Song Y, **Barad BA**, Cheng Y, Fraser JS, DiMaio F. *eLife*. 2016.'
   date: 201606
   image: '/static/img/pub/wang_2016.jpg'
   pmid: 27669148
