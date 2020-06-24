@@ -10,7 +10,7 @@
     - name: 2019 Model Metrics Challenge
       url: https://challenges.emdataresource.org/?q=model-metrics-challenge-2019
 
-- title: "Differences in the chitinolytic activity of mammalian chitinases on soluble and insoluble substrates."
+- title: "Differences in the chitinolytic activity of mammalian chitinases on soluble and insoluble substrates"
   citation: "**Barad BA, Liu L, Diaz RE, Basillo R**, Van Dyken SJ, Locksley RM, **Fraser JS**.  *Protein Science*. 2020."
   date: '2020-01-12'
   image: '/static/img/pub/chitin_2019.jpg'
@@ -53,7 +53,8 @@
 
       url: https://twitter.com/benjaminbarad/status/1171091343789056000
 
-- citation: 'Chatterjee N, Pazarentzos E, Mayekar MK, Gui P, Allegakoen DV, Hrustanovic G, Olivas V, Lin L, Verschueren E, Johnson JR, Hofree M, Yan JJ, Newton BW, Dollen JV, Earnshaw CH, Flanagan J, Chan E, Asthana S, Ideker T, Wu W, Suzuki J, **Barad BA**, Kirichok Y, Fraser JS, Weiss WA, Krogan NJ, Tulpule A, Sabnis AJ, Bivona TG. Synthetic essentiality of metabolic regulator PDHK1 in PTEN-deficient cells and cancers. *Cell Reports.* 2019.'
+- title: "Synthetic essentiality of metabolic regulator PDHK1 in PTEN-deficient cells and cancers"
+  citation: 'Chatterjee N, Pazarentzos E, Mayekar MK, Gui P, Allegakoen DV, Hrustanovic G, Olivas V, Lin L, Verschueren E, Johnson JR, Hofree M, Yan JJ, Newton BW, Dollen JV, Earnshaw CH, Flanagan J, Chan E, Asthana S, Ideker T, Wu W, Suzuki J, **Barad BA**, Kirichok Y, Fraser JS, Weiss WA, Krogan NJ, Tulpule A, Sabnis AJ, Bivona TG. *Cell Reports.* 2019.'
   date: 201810
   image: '/static/img/pub/chatterjee_2018.jpg'
   pmid: 31461649
@@ -64,8 +65,8 @@
     - name: Bivona Lab
       url: https://www.bivonalab.net/
 
-- citation: 'Thomaston JL, Woldeyes RA, Nakane T, Yamashita A, Tanaka T, Koiwai K, Brewster AS, **Barad BA**, Chen Y, Lemmin T, Uervirojnangkoorn M, Arima T, Kobayashi J, Masuda T, Suzuki M, Sugahara M, Sauter NK, Tanaka R, Nureki O, Tono K, Joti Y, Nango E, Iwata S, Yumoto F, Fraser JS, DeGrado WF. XFEL structures of the influenza M2 proton channel: Room temperature water networks and insights
-into proton conduction. *Proceedings of the National Academy of Sciences*. 2017.'
+- title: "XFEL structures of the influenza M2 proton channel: Room temperature water networks and insights into proton conduction"
+  citation: 'Thomaston JL, Woldeyes RA, Nakane T, Yamashita A, Tanaka T, Koiwai K, Brewster AS, **Barad BA**, Chen Y, Lemmin T, Uervirojnangkoorn M, Arima T, Kobayashi J, Masuda T, Suzuki M, Sugahara M, Sauter NK, Tanaka R, Nureki O, Tono K, Joti Y, Nango E, Iwata S, Yumoto F, Fraser JS, DeGrado WF. *Proceedings of the National Academy of Sciences*. 2017.'
   date: 201707
   image: '/static/img/pub/thomaston_2017.jpg'
   pmid: 28835537
@@ -94,7 +95,8 @@ into proton conduction. *Proceedings of the National Academy of Sciences*. 2017.
     - name: 'DiMaio Lab'
       url: 'https://faculty.washington.edu/dimaio/wordpress/'
 
-- citation: 'Mavor D, Barlow KA, Thompson S, **Barad BA**, Bonny AR, Cario CL, Gaskins G, Liu Z, Deming L, Axen SD, Caceres E, Chen W, Cuesta A, Gate R, Green EM, Hulce KR, Ji W, Kenner LR, Mensa B, Morinishi LS, Moss SM, Mravic M, Muir RK, Niekamp S, Nnadi CI, Palovcak E, Poss EM, Ross TD, Salcedo E, See S, Subramaniam M, Wong AW, Li J, Thorn KS, Conchúir SÓ, Roscoe BP, Chow ED, DeRisi JL, Kortemme T, Bolon DN, Fraser JS. Determination of Ubiquitin Fitness Landscapes Under Different Chemical Stresses in a Classroom Setting. *eLife*. 2016.'
+- title: "Determination of Ubiquitin Fitness Landscapes Under Different Chemical Stresses in a Classroom Setting"
+  citation: 'Mavor D, Barlow KA, Thompson S, **Barad BA**, Bonny AR, Cario CL, Gaskins G, Liu Z, Deming L, Axen SD, Caceres E, Chen W, Cuesta A, Gate R, Green EM, Hulce KR, Ji W, Kenner LR, Mensa B, Morinishi LS, Moss SM, Mravic M, Muir RK, Niekamp S, Nnadi CI, Palovcak E, Poss EM, Ross TD, Salcedo E, See S, Subramaniam M, Wong AW, Li J, Thorn KS, Conchúir SÓ, Roscoe BP, Chow ED, DeRisi JL, Kortemme T, Bolon DN, Fraser JS. *eLife*. 2016.'
   date: 201605
   image: '/static/img/pub/pubs_2015.jpg'
   pmid: 27111525
@@ -111,7 +113,8 @@ into proton conduction. *Proceedings of the National Academy of Sciences*. 2017.
     - name: 'eLIFEdigest: Yeast in a class of their own'
       url: 'https://medium.com/lifes-building-blocks/yeast-in-a-class-of-their-own-4dabb27653eb#.tcf71ly8z'
 
-- citation: '**Barad BA**, Echols N, Wang RYR, Cheng Y, DiMaio F, Adams PD, Fraser JS. EMRinger: Side-chain-directed model and map validation for 3D Electron Cryomicroscopy. *Nature Methods*. 2015.'
+- title: "EMRinger: Side-chain-directed model and map validation for 3D Electron Cryomicroscopy"
+  citation: '**Barad BA**, Echols N, Wang RYR, Cheng Y, DiMaio F, Adams PD, Fraser JS. *Nature Methods*. 2015.'
   date: 201503
   image: '/static/img/pub/bab_1_2015.jpg'
   pmid: 26280328
