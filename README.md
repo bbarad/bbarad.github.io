@@ -10,3 +10,4 @@ Freely licensed personal website for Benjamin Barad
 5. Remove my blog posts from _posts and add your own.
 6. Change the name of the site in config.yml
 7. Change the social media stuff in _includes/footer.html
+8. Add new photos and whatnot in static/img and new pdfs in static/pdf
