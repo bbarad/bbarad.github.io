@@ -1,5 +1,5 @@
 - title: "CellPAINT: Turnkey illustration of molecular cell biology"
-  citation: "Gardner A, Ludovic A, Fuentes D, Maritan M, *Barad BA*, Medina, M, Olson AJ, Grotjahn DA, Goodsell DS. Front. Bioinform 2021"
+  citation: "Gardner A, Ludovic A, Fuentes D, Maritan M, **Barad BA**, Medina, M, Olson AJ, Grotjahn DA, Goodsell DS. *Front. Bioinform.* 2021."
   image: "/static/img/pub/gardner_2021.jpg"
   date: "2020-03-29"
   pmid: "tbd"
@@ -26,7 +26,7 @@
       url: https://challenges.emdataresource.org/?q=model-metrics-challenge-2019
 
 - title: "Differences in the chitinolytic activity of mammalian chitinases on soluble and insoluble substrates"
-  citation: "**Barad BA, Liu L, Diaz RE, Basillo R**, Van Dyken SJ, Locksley RM, **Fraser JS**.  *Protein Science*. 2020."
+  citation: "**Barad BA**, Liu L, Diaz RE, Basillo R, Van Dyken SJ, Locksley RM, Fraser JS.  *Protein Science*. 2020."
   date: '2020-01-12'
   image: '/static/img/pub/chitin_2019.jpg'
   pmid: '31930591'
