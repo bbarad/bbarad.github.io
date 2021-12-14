@@ -2,8 +2,8 @@
   citation: "Gardner A, Ludovic A, Fuentes D, Maritan M, **Barad BA**, Medina, M, Olson AJ, Grotjahn DA, Goodsell DS. *Front. Bioinform.* 2021."
   image: "/static/img/pub/gardner_2021.jpg"
   date: "2020-03-29"
-  pmid: "tbd"
-  pmcid: "tbd"
+  pmid: "34790910"
+  pmcid: "PMC8594902"
   pdf: "https://www.frontiersin.org/articles/10.3389/fbinf.2021.660936/pdf"
   zenodo: 
     - code: "4606923"
