@@ -1,23 +1,67 @@
+- title: "**Mapping Protein Dynamics at High-Resolution with Temperature-Jump X-ray Crystallography**"
+  citation: "Wolff AM, Nango E, Young ID, Brewster AS, Kubo M, Nomura T, Sugahara M, Owada S, **Barad BA**, Ito K, Bhowmick A, Carbajo S, Hino T, Holton JM, Im D, O'Riordan LJ, Tanaka T, Tanaka R, Sierra RG, Yumoto F, Tono K, Iwata S, Sauter NK, Fraser JS, Thompson MC. (2022) *bioRxiv*."
+  date: 202206
+  image: '/images/pub/wolff_2022.jpg'
+  pmid: 
+  pmcid: 
+  biorxiv: '2022.06.10.495662'
+  pdf: '/pdf/wolff_2022_biorxiv.pdf'
+  pdbs:
+    - 8CVU
+    - 8CVV
+    - 8CVW
+    - 8CW0
+    - 8CW1
+    - 8CW3
+    - 8CW5
+    - 8CW6
+    - 8CW7
+    - 8CW8
+    - 8CWB
+    - 8CWC
+    - 8CWD
+    - 8CWE
+    - 8CWF
+    - 8CWG
+    - 8CWH
+  data:
+    - '10.11577/1873469'
+  links:
+    - name: Temperature Analysis on Github
+      url: https://github.com/mthompson-lab/Temperature-Jump-Crystallography_Analysis-for-Paper/
+    - name: Nango lab @ Tohoku University
+      url: http://www2.tagen.tohoku.ac.jp/lab/nango/html/
+    - name: Fraser lab @ UC San Francisco
+      url: http://www.fraserlab.com/
+    - name: Thompson Lab @ UC Merced
+      url: https://thompsonlab.science
+    - name: SACLA XFEL
+      url: http://xfel.riken.jp/eng/
+    - name: BioSciences @ LBNL
+      url: https://biosciences.lbl.gov/
+    - name: Preprint Tweetstorm
+      url: https://twitter.com/MThompsonLab/status/1536365959174234112
+
 - title: "A surface morphometrics toolkit to quantify organellar membrane ultrastructure using cryo-electron tomography."
   citation: '**Barad BA†**, Medina M†, Fuentes D, Wiseman, RL, Grotjahn DA. *bioRxiv* 2022 †Equal contribution'
   image: '/static/img/pub/surfacemorphometrics-01.png'
   biorxiv: 2022.01.23.477440
   pdf: '/static/pdf/Barad_Medina_Membrane_Morphometrics.pdf'
   links:
-    - name: "Surface Morphometrics"
+    - name: "Surface Morphometrics on Github"
       url: 'https://github.com/GrotjahnLab/surface_morphometrics/'
     - name: "Review Commons Reviews"
       url: "https://www.biorxiv.org/content/10.1101/2022.01.23.477440v3#review"
-    - name: "Wiseman Lab"
+    - name: "Wiseman Lab @ Scripps Research"
       url: 'http://www.wiseman.scripps.edu/'
 
 - title: "Nanoscale details of mitochondrial fission revealed by cryo-electron tomography."
   citation: 'Mageswaran, SK†, Grotjahn DA†§, Zeng X, **Barad BA**, Medina M, Hoang MH, Dobro MJ, Chang YW, Xu M, Yang WY, Jensen, GJ§. *bioRxiv* 2021 †Equal contribution §Corresponding authors'
-  image: '/static/img/publications/Apr20_TS02_ModelMT.png'
+  image: '/static/img/pub/Apr20_TS02_ModelMT.png'
   biorxiv: 2021.12.13.472487
   pdf: '/static/pdf/Mageswaran_Grotjahn_MitochondrialFission-CryoET_biorxiv.pdf'
   links:
-    - name: "Scripts for quantifying filament architectures"
+    - name: "Filament Architecture on Github"
       url: 'https://github.com/GrotjahnLab/measure_models/'
     - name: "Jensen Lab"
       url: 'http://www.jensenlab.caltech.edu/'
