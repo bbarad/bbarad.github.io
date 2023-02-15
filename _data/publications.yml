@@ -1,3 +1,25 @@
+- title: "Quantifying organellar ultrastructure in cryo-electron tomography using a surface morphometrics pipeline."
+  citation: '**Barad BA†**, Medina M†, Fuentes D, Wiseman, RL, Grotjahn DA. *Journal of Cell Biology* 2023 †Equal contribution'
+  date: "2023-02-14"
+  image: '/static/img/pub/surfacemorphometrics-01.png'
+  biorxiv: 2022.01.23.477440
+  pdf: '/static/pdf/Barad_Medina_Membrane_Morphometrics.pdf'
+  links:
+    - name: "Surface Morphometrics on Github"
+      url: 'https://github.com/GrotjahnLab/surface_morphometrics/'
+    - name: "EMPIAR Deposition (Tilt Series, Tomograms, Segmentations, and Surfaces)"
+      url: 'https://www.ebi.ac.uk/empiar/EMPIAR-11370/'
+    - name: "Zenodo Deposition (Quantifications and Statistics)"
+      url: 'https://zenodo.org/record/7510830'
+    - name: "Review Commons Reviews"
+      url: "https://www.biorxiv.org/content/10.1101/2022.01.23.477440v3#review"
+    - name: "Wiseman Lab @ Scripps Research"
+      url: 'http://www.wiseman.scripps.edu/'
+    - name: "Preprint Tweetorial"
+      url: 'https://twitter.com/benjaminbarad/status/1485829710533693443'
+    - name: "Journal Tweetorial"
+      url: 'https://twitter.com/benjaminbarad/status/1625573810249555968'
+
 - title: "Mapping Protein Dynamics at High-Resolution with Temperature-Jump X-ray Crystallography"
   citation: "Wolff AM, Nango E, Young ID, Brewster AS, Kubo M, Nomura T, Sugahara M, Owada S, **Barad BA**, Ito K, Bhowmick A, Carbajo S, Hino T, Holton JM, Im D, O'Riordan LJ, Tanaka T, Tanaka R, Sierra RG, Yumoto F, Tono K, Iwata S, Sauter NK, Fraser JS, Thompson MC. (2022) *bioRxiv*."
   date: 202206
@@ -42,18 +64,6 @@
     - name: Preprint Tweetstorm
       url: https://twitter.com/MThompsonLab/status/1536365959174234112
 
-- title: "A surface morphometrics toolkit to quantify organellar membrane ultrastructure using cryo-electron tomography."
-  citation: '**Barad BA†**, Medina M†, Fuentes D, Wiseman, RL, Grotjahn DA. *bioRxiv* 2022 †Equal contribution'
-  image: '/static/img/pub/surfacemorphometrics-01.png'
-  biorxiv: 2022.01.23.477440
-  pdf: '/static/pdf/Barad_Medina_Membrane_Morphometrics.pdf'
-  links:
-    - name: "Surface Morphometrics on Github"
-      url: 'https://github.com/GrotjahnLab/surface_morphometrics/'
-    - name: "Review Commons Reviews"
-      url: "https://www.biorxiv.org/content/10.1101/2022.01.23.477440v3#review"
-    - name: "Wiseman Lab @ Scripps Research"
-      url: 'http://www.wiseman.scripps.edu/'
 
 - title: "Nanoscale details of mitochondrial fission revealed by cryo-electron tomography."
   citation: 'Mageswaran, SK†, Grotjahn DA†§, Zeng X, **Barad BA**, Medina M, Hoang MH, Dobro MJ, Chang YW, Xu M, Yang WY, Jensen, GJ§. *bioRxiv* 2021 †Equal contribution §Corresponding authors'
@@ -132,9 +142,6 @@
       url: 'https://irp.nih.gov/pi/philip-anfinrud'
     - name: 'Paper Submission Celebration Tweetstorm'
       url: 'https://twitter.com/fraser_lab/status/1067213167367905280'
-
-
-      url: https://twitter.com/benjaminbarad/status/1171091343789056000
 
 - title: "Synthetic essentiality of metabolic regulator PDHK1 in PTEN-deficient cells and cancers"
   citation: 'Chatterjee N, Pazarentzos E, Mayekar MK, Gui P, Allegakoen DV, Hrustanovic G, Olivas V, Lin L, Verschueren E, Johnson JR, Hofree M, Yan JJ, Newton BW, Dollen JV, Earnshaw CH, Flanagan J, Chan E, Asthana S, Ideker T, Wu W, Suzuki J, **Barad BA**, Kirichok Y, Fraser JS, Weiss WA, Krogan NJ, Tulpule A, Sabnis AJ, Bivona TG. *Cell Reports.* 2019.'
