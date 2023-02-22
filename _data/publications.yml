@@ -3,7 +3,8 @@
   date: "2023-02-14"
   image: '/static/img/pub/surfacemorphometrics-01.png'
   biorxiv: 2022.01.23.477440
-  pdf: '/static/pdf/Barad_Medina_Membrane_Morphometrics.pdf'
+  pmid: 36786771
+  pdf: '/static/pdf/Barad_Medina_Membrane_Morphometrics_Final.pdf'
   links:
     - name: "Surface Morphometrics on Github"
       url: 'https://github.com/GrotjahnLab/surface_morphometrics/'
