@@ -17,10 +17,7 @@ I completed my undergraduate degree in Biological Chemistry at Stanford Universi
 
 I received my PhD in biophysics from UCSF in the lab of [James Fraser](http://fraserlab.com), where I developed methods for the [building](https://elifesciences.org/articles/17219) and [validating atomic models](https://www.nature.com/articles/nmeth.3541) generated from single particle electron microscopy. I also developed [novel computational analysis tools for time-resolved x-ray scattering experiments](https://www.nature.com/articles/s41557-019-0329-3) as well as investigating the [mechanisms of activity of mammalian chitinases](https://onlinelibrary.wiley.com/doi/10.1002/pro.3822).  
 
-Previous to starting my lab, I worked as a postdoc with [Danielle Grotjahn](https://www.scripps.edu/faculty/grotjahn/), using cryo-electron tomography of focused ion beam-thinned cells to quantify mitochondrial morphology and solve _in situ_ protein structures. While there, I developed the [Surface Morphometrics Pipeline](https://github.com/GrotjahnLab/surface_morphometrics), the ongoing development of which will continue in the Barad lab. I also developed automation advances that allowed the collection and processing of hundreds of tilt series, and used these advances to study changes to the architecture and regulation of mitochondrial fission in response to varied chemical and genetic perturbations. Some of that work 
-
-</p>
-
+Previous to starting my lab, I worked as a postdoc with [Danielle Grotjahn](https://www.scripps.edu/faculty/grotjahn/), using cryo-electron tomography of focused ion beam-thinned cells to quantify mitochondrial morphology and solve _in situ_ protein structures. While there, I developed the [Surface Morphometrics Pipeline](https://github.com/GrotjahnLab/surface_morphometrics), the ongoing development of which will continue in the Barad lab. I also developed automation advances that allowed the collection and processing of hundreds of tilt series, and used these advances to study changes to the architecture and regulation of mitochondrial fission in response to varied chemical and genetic perturbations. Some of that work is ongoing!
 
 
 
